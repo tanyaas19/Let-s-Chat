@@ -57,10 +57,10 @@ io.on('connection', (socket) => {
 server.listen(port, () => {
     console.log(`Server is up on port ${port}!`)
 })
-// echo "# Let-s-Chat" >> README.md
+// echo "# Lets-Chat" >> README.md
 // git init
-// git add README.md
+// git add README.mdgit 
 // git commit -m "first commit"
 // git branch -M main
-// git remote add origin https://github.com/tanyaas19/Let-s-Chat.git
+// git remote add origin https://github.com/tanyaas19/Lets-Chat.git
 // git push -u origin main
